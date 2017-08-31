@@ -1,5 +1,4 @@
+#!/bin/bash
+# simple hello world script
+
 echo hello world
-
-echo tested
-
-echo 1234
